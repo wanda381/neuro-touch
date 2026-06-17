@@ -15,12 +15,15 @@
 % MAT-files required: none
 %
 % Author: Davide Deflorio
-% email: dxd815@bham.ac.uk
+% email: *************
 % Date: 28/03/2022
 %
 
-% Last revision: $date, Author, Changes
+% Revision: $date, Author, Changes
 % 3/3/2025 Max Di Luca, check that Touchsim is downloaded and in path
+
+% Last Revision: $date, Author, Changes
+% 4/6/2025 Ann Johnson, the parameters are changed
 
 %% 1. Create population of virtual neurons
 
