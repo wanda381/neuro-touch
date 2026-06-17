@@ -1,14 +1,14 @@
 
 %labtouch - Modeling First-Order tactile neurons with TouchSim (Saal et al., 2017)
 % Used in MBM to demonstrate scripting for workshop on touch neurons
-% Students will rename the script adding their ID to the name
+%
 %
 % Description:
 % labtouch uses TouchSim_v1 to model the activity of first-order neurons
 % in response to virtual stimuli. The main task is to test how
 % the manipulation of a single stimulus parameter affects
 % the firing rate of virtual neurons
-% You will have to come up with a simple research question
+% Come up with a simple research question
 % and run a virtual experiment to test it
 %
 % Other m-files required: TouchSim_v1 package
